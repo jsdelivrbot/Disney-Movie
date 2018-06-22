@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+
+#navbar {
+  background-color: #303030;
+  height: 38px;
+}
+
+#homeLink, #moviesLink, #RatingsLink, #AllRatingsLink {
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-bottom: 10px;
+  color: #f2f5f6;
+  float: left;
+  text-decoration: none;
+}
+
+#List {
+padding-left: 40%;
+}
+
+#title {
+  width: 25%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-color: #eae7e8;
+  padding: 2%;
+}
+#rating {
+  width: 40%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-color: #eae7e8;
+  padding: 2%;
+
+}
